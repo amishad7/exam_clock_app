@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+![Screenshot_20231107_152816](https://github.com/amishad7/exam_clock_app/assets/118448879/5103a3ee-7935-44e9-8734-b94edda02af3)
+![Screenshot_20231107_152648](https://github.com/amishad7/exam_clock_app/assets/118448879/ef6c5d92-bd78-40c5-a495-398d400d412b)
+![Screenshot_20231107_152639](https://github.com/amishad7/exam_clock_app/assets/118448879/927e9df4-41be-476f-91ac-190defbb911f)
+![Screenshot_20231107_152628](https://github.com/amishad7/exam_clock_app/assets/118448879/2008df95-f0c7-4514-a8fb-83b31565cf60)
+![Screenshot_20231107_152616](https://github.com/amishad7/exam_clock_app/assets/118448879/2d664481-aa4f-4804-9333-e0d74bf2e21f)
